@@ -1,2 +1,2 @@
 # jupyter
-my jupyter dir
+my jupyter copy for back up
